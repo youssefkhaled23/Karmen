@@ -1,0 +1,13 @@
+body {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.cartbtn {
+  color: white;
+  padding: 1px 20px;
+  background: linear-gradient(159deg, #ce96f9, navajowhite);
+  border: none;
+  border-radius: 4px;
+}

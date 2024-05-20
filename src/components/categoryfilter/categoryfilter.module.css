@@ -1,0 +1,19 @@
+.categoryfilter {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.input {
+  outline: none;
+  padding: 8px 15px;
+  border: 1px solid #ce96f9;
+}
+
+.input::placeholder {
+  color: #ce96f9;
+}
